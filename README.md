@@ -1,8 +1,6 @@
 # Trump AI Voice Generator
 
-[![Trump AI Voice](https://img.shields.io/badge/Trump%20AI%20Voice-Official-red?style=for-the-badge)](https://trumpaivoice.net/)
 [![AI Voice Generator](https://img.shields.io/badge/AI%20Voice-Generator-blue?style=for-the-badge)](https://trumpaivoice.net/)
-[![Video Creation](https://img.shields.io/badge/Video-Creation-green?style=for-the-badge)](https://trumpaivoice.net/)
 
 > 🎯 **Official Website**: [https://trumpaivoice.net/](https://trumpaivoice.net/)
 
